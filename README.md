@@ -12,3 +12,10 @@ Primeiramente temos que criar o Bot no Telegram:
 
 ![Telegram_KZZzEND6mx](https://user-images.githubusercontent.com/52545988/119037843-daa6fe00-b988-11eb-9061-dbfefdbeac04.png)
 
+7) Agora busque por @Manybot
+8) Start a conversa com o Manybot
+9) Escolha a opção: Create a New Bot
+10) Escolha a opção: I’ve copied the API token
+11) Informe o token fornecido pelo BotFather conforme a etapa 6.
+12) Pronto o bot está habilitado!
+
